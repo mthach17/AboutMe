@@ -1,2 +1,2 @@
 # AboutMe
-EE 201
+Lab 1 EE 201 readMe.
